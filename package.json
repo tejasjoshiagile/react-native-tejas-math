@@ -1,0 +1,23 @@
+{
+  "author": "Tejas Joshi",
+  "bugs": {
+    "url": "https://github.com/tejasjoshiagile/react-native-tejas-math/issues"
+  },
+  "description": "An my first mathc package this is the demo",
+  "homepage": "https://github.com/tejasjoshiagile/react-native-tejas-math#readme",
+  "keywords": [
+    "npm"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-tejas-math",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tejasjoshiagile/react-native-tejas-math.git"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
